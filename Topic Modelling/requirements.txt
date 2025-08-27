@@ -1,0 +1,10 @@
+pandas>=2.3.1 
+tqdm>=4.67.1 
+openpyxl>=3.1.5 
+numpy>=2.2.6
+python-dotenv>=1.1.1 
+openai>=1.99.1 
+pillow>=11.3.0
+spacy>=3.8.7 
+scikit-learn>=1.7.1 
+bertopic>=0.17.3

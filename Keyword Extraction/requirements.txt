@@ -1,0 +1,11 @@
+pandas>=2.3.1 
+tqdm>=4.67.1 
+openpyxl>=3.1.5 
+numpy>=2.3.1
+python-dotenv>=1.1.1 
+openai>=1.98.0 
+pillow>=11.3.0
+keybert>=0.9.0
+rakun2>=0.31
+git+https://github.com/boudinfl/pke.git
+git+https://github.com/LIAAD/yake

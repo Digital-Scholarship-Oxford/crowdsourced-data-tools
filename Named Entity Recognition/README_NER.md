@@ -217,7 +217,11 @@ TBD
 
 # Contact
 
-TBD
+Miguel Arana-Catania. Senior Research Software Engineer AI/NLP, University of Oxford. miguel.arana-catania@humanities.ox.ac.uk
+
+Matthew Kidd.
+
+Catherine Conisbee.
 
 # License
 

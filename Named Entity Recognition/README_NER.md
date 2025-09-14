@@ -221,7 +221,7 @@ Miguel Arana-Catania. Senior Research Software Engineer AI/NLP, University of Ox
 
 Matthew Kidd.
 
-Catherine Conisbee.
+Catherine Conisbee. Research Assistant, Extracting Keywords from Crowdsourced Collections Project, University of Oxford. catherine.conisbee@bodleian.ox.ac.uk
 
 # License
 

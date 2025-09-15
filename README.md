@@ -13,9 +13,13 @@ While this repository was developed with colleagues working in the Digital Human
 This repository contains **x3 folders** which support the use of the following AI-powered text analysis approaches: 
 
  #### • [Keyword Extraction (KE)](https://github.com/Digital-Scholarship-Oxford/crowdsourced-data-tools/tree/main/Keyword%20Extraction)
+[Documentation](https://github.com/cronopioelectronico/crowdsourced-data-tools/blob/main/Keyword%20Extraction/README_KE.md)
+
 KE is used to extract keywords directly from text, words or phrases, which both e.g. arise in a document and indicate what it is that the text is talking about ([Nomoto, 2023](https://link.springer.com/article/10.1007/s42979-022-01481-7)). 
  
  #### • [Named Entity Recognition (NER)](https://github.com/Digital-Scholarship-Oxford/crowdsourced-data-tools/tree/main/Named%20Entity%20Recognition) 
+[Documentation](https://github.com/cronopioelectronico/crowdsourced-data-tools/blob/main/Named%20Entity%20Recognition/README_NER.md)
+
 NER is used to identify segments of information referenced in a text and classify them into pre-established categories, such as 'person', 'organisation' and 'location' ([Jehangir et al, 2023](https://www.sciencedirect.com/science/article/pii/S2949719123000146#b11)) - though the range of categories predicted can vary from model to model.  
  
  *Example:* <br>
@@ -23,6 +27,7 @@ Text = 'An author called Jane Austen wrote the novel Pride and Prejudice.'
 NER model output = Person: Jane Austen; Work of Art: Pride and Prejudice 
 
  #### • [Topic Modelling (TM)](https://github.com/Digital-Scholarship-Oxford/crowdsourced-data-tools/tree/main/Topic%20Modelling)
+[Documentation](https://github.com/cronopioelectronico/crowdsourced-data-tools/blob/main/Topic%20Modelling/README_Topic.md)
 
 TM is used to uncover hidden thematic structures in large collections of text/textual documents, providing an automatic means to organise, understand and summarise them. It is a type of unsupervised machine learning that supports analysis of unstructured textual data i.e. it does not rely on labelled input.
 <br><br>

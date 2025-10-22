@@ -168,7 +168,7 @@ Catherine Conisbee. Research Assistant, Extracting Keywords from Crowdsourced Co
 
 # License
 
-TBD
+The content of this repository is being made available under an [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html) re-use license.
 
 
 

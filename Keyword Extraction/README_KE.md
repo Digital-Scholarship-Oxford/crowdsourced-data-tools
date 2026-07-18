@@ -192,7 +192,9 @@ Information about the models: https://platform.openai.com/docs/overview
 
 # Citing this code
 
-TBD
+If you use this code, please cite the following article:
+Arana-Catania, M., Conisbee, C., & Kidd, M. (2026). Letting the Data Speak: Extracting Keywords from Crowdsourced Collections with AI. arXiv preprint arXiv:2607.09324.
+https://arxiv.org/abs/2607.09324
 
 # Contact
 

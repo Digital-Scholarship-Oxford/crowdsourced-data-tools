@@ -107,6 +107,10 @@ We tested 6 emotion classification models, and Gemini 2.5, using the full datase
 
 The content of this repository is being made available under an [AGPLv3](https://www.gnu.org/licenses/agpl-3.0.en.html) re-use license. <br><br>
 
+If you use this code, please cite the following article:
+Arana-Catania, M., Conisbee, C., & Kidd, M. (2026). Letting the Data Speak: Extracting Keywords from Crowdsourced Collections with AI. arXiv preprint arXiv:2607.09324.
+https://arxiv.org/abs/2607.09324
+
 ## Resources and Links 
 
 **Their Finest Hour Online Archive:** https://portal.sds.ox.ac.uk/Their_Finest_Hour 
